@@ -4,9 +4,7 @@ This repository defines Github's usage standards. In the next section you'll be 
 
 #### Useful links
 
-- [Project names]()
-- [Project structure]()
-- [Readme composition]()
-- [Github]()
+- [Github references]()
+- [Projects issues]()
 
 ----------
