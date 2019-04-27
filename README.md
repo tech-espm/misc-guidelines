@@ -4,7 +4,7 @@ This repository defines Github's usage standards. In the next section you'll be 
 
 #### Useful links
 
-- [Github references]()
-- [Projects issues]()
+- [Github references](https://github.com/tech-espm/guidelines/blob/master/git-references/README.md)
+- [Projects issues](https://github.com/tech-espm/guidelines/blob/master/projects-issues/README.md)
 
 ----------
