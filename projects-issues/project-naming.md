@@ -16,6 +16,7 @@ for organization purposes it must comply with the following rules.
 | pic           | Scientific Initiation     |
 | pgt           | Graduation final project  |
 | misc          | Class projects            |
+| tool          | General purpose devkit    |
 
 
 ---------------
@@ -57,5 +58,9 @@ correspondent semester number (as shown in the examples bellow).
 #### Class projects
 
 `misc-prooooojects`
+
+#### Devkit projects
+
+`tool-devkit`
 
 ------------
